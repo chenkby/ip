@@ -1,5 +1,5 @@
 # IP所属地查询
-使用淘宝及sina公共API查询
+使用淘宝及sina公共API查询IP所属地
 ## 安装
 
 composer
