@@ -5,13 +5,13 @@
 composer
 
 ```bash
-$ php composer.phar require chenkby/ip:dev-master
+$ php composer.phar require chenkby/ip:*
 ```
 
 或者添加以下代码到`composer.json`文件的`require`块中：
 
 ```
-"chenkby/ip": "dev-master"
+"chenkby/ip": "*"
 ```
 
 ## 使用
