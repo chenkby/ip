@@ -1,7 +1,7 @@
 # IP所属地查询
 ## 安装
 
-####composer
+###composer
 
 ```bash
 $ php composer.phar require chenkby/ip:dev-master
